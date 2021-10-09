@@ -1,0 +1,46 @@
+{
+  "universeCards": [
+    {
+      "id": 1,
+      "title": "Axe",
+      "type": "str",
+      "description": "As a grunt in the Army of Red Mist, Mogul Khan set his sights on the rank of Red Mist General. In battle after battle he proved his worth through gory deed. His rise through the ranks was helped by the fact that he never hesitated to decapitate a superior.",
+      "imageSrc": "https://i.ibb.co/gwwXdyz/Screen-Shot-2021-10-09-at-13-10-18.png"
+    },
+    {
+      "id": 2,
+      "title": "Earthshaker",
+      "type": "str",
+      "description": "Like a golem or gargoyle, Earthshaker was one with the earth but now walks freely upon it. Unlike those other entities, he created himself through an act of will, and serves no other master.",
+      "imageSrc": "https://i.ibb.co/fp43SHV/Screen-Shot-2021-10-09-at-13-10-34.png"
+    },
+    {
+      "id": 3,
+      "title": "Invoker",
+      "type": "int",
+      "description": "In its earliest, and some would say most potent form, magic was primarily the art of memory. It required no technology, no wands or appurtenances other than the mind of the magician.",
+      "imageSrc": "https://i.ibb.co/yFNykmF/Screen-Shot-2021-10-09-at-13-10-47.png"
+    },
+    {
+      "id": 4,
+      "title": "Windranger",
+      "type": "int",
+      "description": "The western forests guard their secrets well. One of these is Lyralei, master archer of the wood, and favored godchild of the wind.",
+      "imageSrc": "https://i.ibb.co/HhRktYv/Screen-Shot-2021-10-09-at-13-11-01.png"
+    },
+    {
+      "id": 5,
+      "title": "Templar Assassin",
+      "type": "agi",
+      "description": "Lanaya, the Templar Assassin, came to her calling by a path of curious inquiry.",
+      "imageSrc": "https://i.ibb.co/9v6DnBV/Screen-Shot-2021-10-09-at-13-11-13.png"
+    },
+    {
+      "id": 6,
+      "title": "Phantom Assassin",
+      "type": "agi",
+      "description": "Through a process of divination, children are selected for upbringing by the Sisters of the Veil, an order that considers assassination a sacred part of the natural order.",
+      "imageSrc": "https://i.ibb.co/Q83YZnb/Screen-Shot-2021-10-09-at-13-11-22.png"
+    }
+  ]
+}
